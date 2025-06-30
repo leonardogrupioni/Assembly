@@ -4,10 +4,6 @@ This repository contains exercises written in MIPS Assembly, developed as part o
 
 The goal of these activities is to better understand how a computer executes instructions at the hardware level, focusing on register manipulation, memory addressing, and control flow using Assembly language.
 
-## 📂 Folder Structure
-Assembly/
-└── PUC_MIPS/
-
 ## 🎯 Topics Covered
 
 - Register usage and conventions
